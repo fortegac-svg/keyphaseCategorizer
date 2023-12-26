@@ -45,6 +45,6 @@ We welcome contributions to `keyphaseCategorizer`. To contribute:
 This project is licensed under the MIT License - see the `LICENSE` file for details.
 
 ## Contact
-- Fabián Ortega - fortega@opentext.com
+- Francisco Ortega - [fortega@opentext.com](mailto:fortega@opentext.com)
 
-Project Link: https://github.com/fortegac-svg/keyphaseCategorizer
+Project Link: [https://github.com/fortegac-svg/keyphaseCategorizer](https://github.com/fortegac-svg/keyphaseCategorizer)
